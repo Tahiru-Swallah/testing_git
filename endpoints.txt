@@ -1,0 +1,4 @@
+"drone-categories": "http://127.0.0.1:8000/drone-categories/",
+ "drones": "http://127.0.0.1:8000/drones/",
+    "pilots": "http://127.0.0.1:8000/pilots/",
+    "competitions": "http://127.0.0.1:8000/competitions/"
